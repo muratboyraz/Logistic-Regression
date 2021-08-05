@@ -1,2 +1,1 @@
-# muhendislikProjesi4
-Logistic Regression
+# Logistic Regression Algorithm Implementation
